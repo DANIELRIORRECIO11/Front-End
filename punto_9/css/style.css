@@ -1,0 +1,16 @@
+.tabla_1 {
+    background-color: yellow;
+    border-collapse: collapse;
+    border-bottom: dotted red;
+}
+.tabla_1 th {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.tabla_1 th,td {
+    border: 2px dotted #000000;
+}
+#negrita{
+    font-size: 40px;
+}

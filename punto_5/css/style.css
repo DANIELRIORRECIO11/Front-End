@@ -1,0 +1,37 @@
+p{
+    padding: none;
+}
+
+#verde_subrayado{
+    color: green;
+    text-decoration: underline;
+}
+
+#rojo_negrilla{
+    color: red;
+    font-weight: bold;
+}
+
+#subrayado_arriba_abajo{
+    text-decoration: overline underline;
+}
+
+#fuente_grande{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#azul_negrilla{
+    color: blue;
+    font-weight: bold;
+}
+
+#rojo_subrayado_negrilla{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#ultimo_parrafo{
+    padding-top: 15px;
+}
